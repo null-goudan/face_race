@@ -16,4 +16,7 @@ tensorflow+opencv 人脸识别
 ## 4. 载入网络并用视频流捕捉圈出自己
 
   - face_predict_use_kera.py opencv视频流读取并用网络预测id
-  
+  - 发现id 对比数据库然后找到名称，圈出指定区域然后标上名称
+
+
+#### 标签： 目标检测，图像分割
